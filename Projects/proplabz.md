@@ -22,7 +22,7 @@ At Prop Labz, I played a pivotal role in developing and enhancing various aspect
 - **Programming Languages**: Python
 - **Frameworks**: Flask, Streamlit
 - **Database**: PostgreSQL
-- **Web Scraping**: BeautifulSoup, Scrapy (if applicable)
+- **Web Scraping**: BeautifulSoup, Selenium
 - **Predictive Modeling**: Various machine learning libraries (e.g., scikit-learn, TensorFlow)
 
 ### Live Site
